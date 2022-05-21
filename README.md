@@ -19,7 +19,6 @@ This Video tutorial is about  macOS App Development  full course with Xcod
 • macBook or iMac Computer (latest macOS version)
 • Download latest Xcode 
 
-🛍️ Source Code:- https://github.com/azeemohd786/multiple-column-Navigation-macOS/tree/main
 
 Download Xcode :- https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file
 
