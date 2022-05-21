@@ -11,6 +11,7 @@
 		B06936A62838A4360050EAC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06936A52838A4360050EAC0 /* ContentView.swift */; };
 		B06936A82838A43A0050EAC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B06936A72838A43A0050EAC0 /* Assets.xcassets */; };
 		B06936AB2838A43A0050EAC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B06936AA2838A43A0050EAC0 /* Preview Assets.xcassets */; };
+		B06936B32838A8800050EAC0 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06936B22838A8800050EAC0 /* Category.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B06936A72838A43A0050EAC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B06936AA2838A43A0050EAC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B06936AC2838A43A0050EAC0 /* macOSColumnTrial.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOSColumnTrial.entitlements; sourceTree = "<group>"; };
+		B06936B22838A8800050EAC0 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				B06936A32838A4360050EAC0 /* macOSColumnTrialApp.swift */,
 				B06936A52838A4360050EAC0 /* ContentView.swift */,
+				B06936B22838A8800050EAC0 /* Category.swift */,
 				B06936A72838A43A0050EAC0 /* Assets.xcassets */,
 				B06936AC2838A43A0050EAC0 /* macOSColumnTrial.entitlements */,
 				B06936A92838A43A0050EAC0 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B06936A62838A4360050EAC0 /* ContentView.swift in Sources */,
+				B06936B32838A8800050EAC0 /* Category.swift in Sources */,
 				B06936A42838A4360050EAC0 /* macOSColumnTrialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
